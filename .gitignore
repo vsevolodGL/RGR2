@@ -1,0 +1,8 @@
+*.pdf
+
+RGR1/
+
+.DS_Store
+.cache/
+.idea/
+__pycache__/
