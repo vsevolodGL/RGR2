@@ -286,7 +286,7 @@ m=6,\qquad p_k=\frac16,\qquad np_k=\frac{99}6=16.5.
 ```
 
 ```math
-np_k=16.5>5.
+np_k=16.5.
 ```
 
 | Интервал | n_k | p_k | np_k | (n_k-np_k)^2/np_k |
