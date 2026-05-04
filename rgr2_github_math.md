@@ -282,10 +282,6 @@ H_1:X_4 \not\sim Exp(\lambda=0.2).
 Интервалы и частоты:
 
 ```math
-q_p=-\frac{\ln(1-p)}{\lambda}.
-```
-
-```math
 m=6,\qquad p_k=\frac16,\qquad np_k=\frac{99}6=16.5.
 ```
 
